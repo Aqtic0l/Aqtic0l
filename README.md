@@ -4,13 +4,13 @@
 
 <p align="center">
  <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=memL0rz;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=fqbn208;">
   </a>    
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/memL0rz/commits/main">
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/memL0rz/memL0rz?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+    <a href="https://github.com/fqbn207/commits/main">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/fqbn207/fqbn207?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
 </p>
 
@@ -23,11 +23,10 @@
     </summary>
     
 <pre>
-   👋 Hi my Name is memL0rz
+   👋 Hi my Name is fqbn207
    🚩 Im from Germany
    💻 I like programming and UNIX/LINUX 
    🕹 My Hobbys are programming and playing video games
- <a href="https://discord.com/users/memL0rz">My Discord</a>
 </pre>
 
 </details>
@@ -64,10 +63,10 @@
   <table>
     <tr>
      <td align="center", style="width: 100%">
-          <a href="#" ><img src="https://github-readme-stats.vercel.app/api?username=memL0rz&rank_icon=percentile&theme=radical"></a>
+          <a href="#" ><img src="https://github-readme-stats.vercel.app/api?username=fqbn207&rank_icon=percentile&theme=radical"></a>
      </td>
      <td align="center", style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memL0rz&layout=compact&show_icons=true&theme=radical&locale=en"></a>
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fqbn207&layout=compact&show_icons=true&theme=radical&locale=en"></a>
      </td>
      
    
